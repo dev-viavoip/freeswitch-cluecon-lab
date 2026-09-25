@@ -40,7 +40,7 @@
     <load module="mod_verto"/>
 
     <!-- Applications -->
-    <load module="mod_signalwire"/>
+    <!--<load module="mod_signalwire"/>-->
     <load module="mod_commands"/>
     <load module="mod_conference"/>
     <!-- <load module="mod_curl"/> -->
@@ -60,7 +60,7 @@
     <!--<load module="mod_cluechoo"/>-->
     <load module="mod_valet_parking"/>
     <!--<load module="mod_fsk"/>-->
-    <!--<load module="mod_spy"/>-->
+    <load module="mod_spy"/>
     <!--<load module="mod_sms"/>-->
     <!--<load module="mod_smpp"/>-->
     <!--<load module="mod_random"/>-->
